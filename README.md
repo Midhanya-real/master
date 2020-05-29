@@ -1,3 +1,3 @@
-#\RepareFirstProgram\firstProgram.php
+\RepareFirstProgram\firstProgram.php
 
-#Репьев Михаил ПДО 32-17
+Репьев Михаил ПДО 32-17
