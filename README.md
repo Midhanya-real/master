@@ -1,3 +1,3 @@
 +master
-\RepareFirstProgram\firstProgram.php
+\RepareFirstProgram\firstProgram.php "\n"
 Репьев Михаил ПДО 32-17
